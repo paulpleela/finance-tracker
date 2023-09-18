@@ -9,11 +9,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from ctypes import windll
 from tkcalendar import DateEntry
 
-# SETUP AND RUN:
-# Open Command Prompt and go to src folder's directory.
-# Install dependencies with "pip install -r requirements.txt".
-# Run the program with "python slice.py".
-
 DATA = "data.db"
 
 FONT1 = "Calibri"
