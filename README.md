@@ -1,6 +1,6 @@
 # Expense Manager
 
-The Expense Manager is a desktop application designed to easily and effectively manage and track financial transactions. This project provides a platform for users to log their income and expenses. Additionally, it offers an Analytics feature for viewing charts by category and timeframe.
+The Expense Manager is a desktop application designed to easily and effectively manage and track financial transactions. This project provides a platform for users to log their income and expenses, as well as track their monthly budget and savings. Additionally, it offers an Analytics feature for viewing charts by category and timeframe.
 
 - [Features](#features)
   - [User Authentication](#user-authentication)
