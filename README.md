@@ -1,6 +1,6 @@
-# Expense Manager
+# Finance Tracker
 
-The Expense Manager is a desktop application designed to easily and effectively manage and track financial transactions. This project provides a platform for users to log their income and expenses, as well as track their monthly budget and savings. Additionally, it offers an Analytics feature for viewing charts by category and timeframe.
+The Finance Tracker is a desktop application designed to easily and effectively manage and track financial transactions. This project provides a platform for users to log their income and expenses, as well as track their monthly budget and savings. Additionally, it offers an Analytics feature for viewing charts by category and timeframe.
 
 - [Features](#features)
   - [User Authentication](#user-authentication)
@@ -53,7 +53,7 @@ The Expense Manager is a desktop application designed to easily and effectively 
 
 ## Getting Started
 
-Follow these steps to set up and run the Expense Manager application on your local machine:
+Follow these steps to set up and run the Finance Tracker application on your local machine:
 
 ### Prerequisites
 
@@ -65,13 +65,13 @@ Follow these steps to set up and run the Expense Manager application on your loc
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/paulpleela/expense-manager.git
+    git clone https://github.com/paulpleela/finance-tracker.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd expense-manager
+    cd finance-tracker
     ```
 
 3. Install the required dependencies:
